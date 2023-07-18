@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.app-tabs {
+  list-style-type: none;
+  margin-right: 30px;
+}
+.tab-btn {
+  font-family: Bree Serif;
+  font-size: 14px;
+  background-color: transparent;
+  border: 0px solid;
+  outline: none;
+  cursor: pointer;
+  color: #7b8794;
+}
+.active-tab-style {
+  color: #1e293b;
+  border-bottom: 2px solid #2563eb;
+  font-family: 16px;
+}

@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.apps-list {
+  list-style-type: none;
+  margin-bottom: 10px;
+  margin-right: 20px;
+}
+.app-img {
+  width: 48%;
+  border-radius: 6px;
+}
+.app-cont {
+  background-color: aliceblue transparent 2px;
+  width: 130px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  padding-top: 20px;
+}
+.app-name {
+  font-family: Bree Serif;
+  font-size: 14px;
+  font-weight: bold;
+  color: #1e293b;
+}
